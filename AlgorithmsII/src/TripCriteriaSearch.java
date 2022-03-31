@@ -33,6 +33,9 @@ public class TripCriteriaSearch {
 			this.pickup_type = pickup_type;
 			this.drop_off_type = drop_off_type;
 			this.shape_dist_traveled = shape_dist_traveled;
+			
+			
+			//code
 	}
 }
 }
